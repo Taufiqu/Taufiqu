@@ -3,7 +3,7 @@
 </h3>
 
 </br>
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/112592675?v=4" alt="codebucks27" /> </p>
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/112592675?v=4" alt="codebucks27" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebucks27" alt="codebucks27" /></a> </p> -->
 
