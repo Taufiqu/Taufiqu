@@ -30,19 +30,34 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="jsx" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="50" height="50"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="nofollow">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
   </a>
   <a href="https://vercel.com" target="_blank" rel="nofollow">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
   </a>
 </p>
 
+<h3 align="left">▶ AI Tools:</h3>
+<p align="left">
+  <a href="https://chat.openai.com/" target="_blank" rel="nofollow">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt="ChatGPT" width="40" height="40"/>
+  </a>
+  <a href="https://gemini.google.com/" target="_blank" rel="nofollow">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Google_Gemini_logo.svg" alt="Gemini" width="40" height="40"/>
+  </a>
+  <a href="https://www.anthropic.com/" target="_blank" rel="nofollow">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Anthropic_logo.svg" alt="Claude" width="40" height="40"/>
+  </a>
+  <a href="https://www.perplexity.ai/" target="_blank" rel="nofollow">
+    <img src="https://www.perplexity.ai/assets/img/logo.svg" alt="Perplexity" width="40" height="40"/>
+  </a>
+</p>
