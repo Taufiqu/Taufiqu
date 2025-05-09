@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufiqu</h1>
-<h3 align="center">A passionate Web developer. Love to build beautiful websites with latest tech available😄</h3>
+<h3 align="center">A passionate Web developer. Front-End Enthusiat. AI Enthusiat</h3>
 
 </br>
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/112592675?v=4" alt="codebucks27" /> </p>
@@ -30,19 +30,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="jsx" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="100" height="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Logo_2017.svg" alt="kotlin" width="50" height="50"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="nofollow">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg" alt="laravel" width="50" height="50"/>
   </a>
   <a href="https://vercel.com" target="_blank" rel="nofollow">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Vercel_logo.svg" alt="vercel" width="40" height="40"/>
   </a>
 </p>
 
