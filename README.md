@@ -4,137 +4,229 @@
 
 ###
 
+<!-- Animated Typing Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Taufiqu;Web+Developer+%7C+AI+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+</div>
+
+###
+
+<!-- Social Media Links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-hafizh-taufiqurrohman-421121290/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="35" alt="linkedin"  />
   </a>
   <a href="https://www.youtube.com/@muhammadhafizhtaufiqurrohm8931" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="https://discordapp.com/users/486472925579313185" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" height="35" alt="youtube"  />
   </a>
   <a href="https://www.instagram.com/hafizh_tr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="35" alt="instagram"  />
   </a>
   <a href="https://www.facebook.com/cahyo.priona" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" height="35" alt="facebook"  />
+  </a>
+  <a href="https://discordapp.com/users/486472925579313185" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" height="35" alt="discord"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gilbertsibuea8539@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="35" alt="gmail"  />
   </a>
 </div>
 
 ###
 
+<!-- Visitor Counter with Animation -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taufiqu.Taufiqu&"  />
+  <img src="https://komarev.com/ghpvc/?username=Taufiqu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taufiqu.Taufiqu&" alt="visitors" />
 </div>
 
 ###
 
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/112592675?v=4" alt="Taufiqu" height="150" /> </p>
+<!-- Profile Avatar with Border -->
+<p align="center"> 
+  <img src="https://avatars.githubusercontent.com/u/112592675?v=4" alt="Taufiqu" height="200" width="200" style="border-radius: 50%; border: 4px solid #00D9FF;" /> 
+</p>
 
 ###
 
-<h1 align="center">Hi 👋, I'm Taufiqu</h1>
-<h3 align="center">A passionate Web developer. Front-End Developer. AI Enthusiast</h3>
+<!-- Spotify Widget -->
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1&unique=true" alt="Spotify recently played"  />
+</div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-Welcome to my GitHub profile! I'm a Computer Science student at Universitas Lampung, passionate about web development, machine learning, and mobile app development. I enjoy exploring new technologies and tackling real-world problems through coding and machine learning.
+<!-- Quote Generator -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 ###
 
-<h3 align="center">🛠️  Language and Tools</h3>
+## 🚀 **About Me**
+
+```typescript
+const taufiqu = {
+    name: "Muhammad Hafizh Taufiqurrohman",
+    role: "Computer Science Student",
+    university: "Universitas Lampung",
+    code: ["PHP", "JavaScript", "Python", "TypeScript", "Java", "Kotlin", "Dart"],
+    askMeAbout: ["web dev", "mobile dev", "machine learning", "AI"],
+    technologies: {
+        frontend: ["React", "Next.js", "HTML5", "CSS3", "TailwindCSS", "Bootstrap"],
+        backend: ["Laravel", "PHP", "Node.js"],
+        mobile: ["Flutter", "React Native"],
+        database: ["MySQL", "MongoDB"],
+        devOps: ["Docker", "Git", "GitHub"],
+        tools: ["VSCode", "PyCharm", "Figma"]
+    },
+    currentFocus: "Building AI-powered web applications",
+    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+};
+```
 
 ###
+
+## 🎯 **Fun Facts & Hobbies**
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎮 **When I'm Not Coding**
+- 🎵 Listening to music while coding
+- 🎮 Gaming (Mobile Legends, Valorant)
+- 📚 Reading tech blogs and documentation
+- ⚽ Playing football with friends
+- 🍕 Trying new food recipes
+
+</td>
+<td valign="top" width="50%">
+
+### 💡 **Fun Facts**
+- 🌙 I'm a night owl - best code comes after 10 PM
+- ☕ Coffee is my debugging fuel
+- 🐧 Linux enthusiast 
+- 📱 Always excited about new tech trends
+- 🎯 Goal: Contribute to major open source projects
+
+</td>
+</tr>
+</table>
+
+###
+
+## 🛠️ **Tech Stack & Tools**
+
+<!-- Frontend -->
+<details>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+</details>
+
+<!-- Backend -->
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,java,mysql" />
+</p>
+</details>
+
+<!-- Mobile -->
+<details>
+<summary><b>📱 Mobile Development</b></summary>
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java" />
+</p>
+</details>
+
+<!-- Tools & Others -->
+<details>
+<summary><b>🔧 Tools & Technologies</b></summary>
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma" />
+</p>
+</details>
+
+###
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="Latex logo"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taufiqu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taufiqu&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+###
+
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Taufiqu&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+###
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taufiqu&theme=tokyo-night&hide_border=true" />
+</div>
+
+###
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Taufiqu&theme=tokyonight&no-frame=true&column=7" />
+</div>
+
+###
+
+## 🎵 **Currently Vibing To**
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+</div>
+
+###
+
+## 🏆 **Achievements & Certifications**
+
+<div align="center">
+  
+[![](https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.coursera.org)
+[![](https://img.shields.io/badge/-Web%20Development-4ECDC4?style=for-the-badge&logo=javascript&logoColor=white)](https://www.freecodecamp.org)
+[![](https://img.shields.io/badge/-Mobile%20Development-45B7D1?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
 </div>
 
 ###
 
+## 📫 **Let's Connect & Collaborate!**
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo"  />
+
+[![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+[![](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://your-resume-link.com)
+[![](https://img.shields.io/badge/Hire%20Me-00C896?style=for-the-badge&logo=upwork&logoColor=white)](mailto:gilbertsibuea8539@gmail.com)
 
 </div>
 
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Taufiqu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <h3>💬 Feel free to reach out if you want to collaborate on projects or just have a chat about technology!</h3>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taufiqu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Taufiqu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-
-###
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/Taufiqu">Taufiqu</a> with ❤️</i>
+</div>
