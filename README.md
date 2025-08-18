@@ -50,9 +50,31 @@
 
 ###
 
-<!-- Spotify Widget -->
+<!-- Manual Music Section -->
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1&unique=true" alt="Spotify recently played"  />
+  <h3>🎵 What I'm Currently Listening To</h3>
+  <table>
+  <tr>
+    <td>🎧 <strong>Primary Platform:</strong></td>
+    <td><img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=flat-square&logo=youtube-music&logoColor=white" alt="YouTube Music" /></td>
+  </tr>
+  <tr>
+    <td>🎵 <strong>Current Obsession:</strong></td>
+    <td>Kini - Daun Jatuh</td>
+  </tr>
+  <tr>
+    <td>🎤 <strong>Favorite Artists:</strong></td>
+    <td>Nujabes, Daun Jatuh, Radiohead, Fiersa Besari</td>
+  </tr>
+  <tr>
+    <td>📻 <strong>Go-to Playlist:</strong></td>
+    <td><a href="https://music.youtube.com/playlist?PLK7mBjhF7kxb-SlT6mAtYhyPLyRWCx_-Q" target="_blank">🎯 All in one</a></td>
+  </tr>
+  <tr>
+    <td>⏰ <strong>Last Updated:</strong></td>
+    <td>August 2025</td>
+  </tr>
+  </table>
 </div>
 
 ###
@@ -77,7 +99,7 @@ const taufiqu = {
         frontend: ["React", "Next.js", "HTML5", "CSS3", "TailwindCSS", "Bootstrap"],
         backend: ["Laravel", "PHP", "Node.js"],
         mobile: ["Flutter", "React Native"],
-        database: ["MySQL", "MongoDB"],
+        database: ["MySQL", "MongoDB", "PostgreSQL"],
         devOps: ["Docker", "Git", "GitHub"],
         tools: ["VSCode", "PyCharm", "Figma"]
     },
@@ -95,10 +117,9 @@ const taufiqu = {
 <td valign="top" width="50%">
 
 ### 🎮 **When I'm Not Coding**
-- 🎵 Listening to music while coding
-- 🎮 Gaming (Mobile Legends, Valorant)
+- 🎵 Listening to music while gaming
+- 🎮 Gaming (Mobile Legends, League of Legends)
 - 📚 Reading tech blogs and documentation
-- ⚽ Playing football with friends
 - 🍕 Trying new food recipes
 
 </td>
@@ -107,7 +128,6 @@ const taufiqu = {
 ### 💡 **Fun Facts**
 - 🌙 I'm a night owl - best code comes after 10 PM
 - ☕ Coffee is my debugging fuel
-- 🐧 Linux enthusiast 
 - 📱 Always excited about new tech trends
 - 🎯 Goal: Contribute to major open source projects
 
@@ -187,10 +207,36 @@ const taufiqu = {
 
 ###
 
-## 🎵 **Currently Vibing To**
+## 🎵 **My Music Corner**
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music" />
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+</div>
+
+<div align="center">
+  <table>
+  <tr>
+    <td valign="top" width="50%">
+    
+### 🎧 **Current Vibes**
+- **Now Playing:** Let Down - Radiohead
+- **Mood:** Despair and Agony 
+- **Perfect for:** Late night coding sessions
+
+    </td>
+    <td valign="top" width="50%">
+    
+### 🎵 **Favorite Playlists**
+- [🌙 All in One](https://music.youtube.com/playlist?list=PLK7mBjhF7kxb-SlT6mAtYhyPLyRWCx_-Q)
+
+    </td>
+  </tr>
+  </table>
+</div>
+
+<div align="center">
+  <em>🎼 Music fuels my code | Last updated: August 2025</em>
 </div>
 
 ###
@@ -207,7 +253,7 @@ const taufiqu = {
 
 ###
 
-## 📫 **Let's Connect & Collaborate!**
+<!-- ## 📫 **Let's Connect & Collaborate!**
 
 <div align="center">
 
@@ -215,7 +261,7 @@ const taufiqu = {
 [![](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://your-resume-link.com)
 [![](https://img.shields.io/badge/Hire%20Me-00C896?style=for-the-badge&logo=upwork&logoColor=white)](mailto:gilbertsibuea8539@gmail.com)
 
-</div>
+</div> -->
 
 <div align="center">
   <h3>💬 Feel free to reach out if you want to collaborate on projects or just have a chat about technology!</h3>
