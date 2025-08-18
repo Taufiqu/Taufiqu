@@ -34,10 +34,6 @@
 
 ###
 
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/112592675?v=4" alt="Taufiqu" height="150" /> </p>
-
-###
-
 <h1 align="center">Hi 👋, I'm Taufiqu</h1>
 <h3 align="center">A passionate Web developer. Front-End Developer. AI Enthusiast</h3>
 
