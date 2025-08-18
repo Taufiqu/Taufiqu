@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/OTE2C8NwrmwAAAAC/mm.gif"  />
+  <img height="150" src="https://media1.tenor.com/m/OTE2C8NwrmwAAAAC/mm.gif"/>
 </div>
 
 ###
@@ -40,7 +40,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-Welcome to my GitHub profile! I'm a Computer Science student at Universitas Lampung, passionate about web development, machine learning, and mobile app development. I enjoy exploring new technologies and tackling real-world problems through coding and machine learning.
+Welcome to my GitHub profile! I'm a Computer Science student at Universitas Lampung, passionate about web development, machine learning, and AI exploring. I enjoy exploring new technologies and tackling real-world problems through coding and machine learning.
 
 ###
 
